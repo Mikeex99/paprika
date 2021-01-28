@@ -10,7 +10,43 @@ td{
     border: 1px solid saddlebrown;
     padding: 5px;
 }
-.joldal{
+#joldal{
     width: 120px;
     text-align: center;
+}
+#fokeret{
+    margin: auto;
+    width: 1000px;
+}
+#fejlec{
+    width: 100%;
+    padding: 1px;
+    background-image: url(szines.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+li{
+    list-style-image: url(chili-pepper-icon.gif);
+    border: 2px solid blue;
+    padding: 5px;
+    background-color: rgb(248, 248, 248);
+    margin: 7px;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+#tartalom{
+    float: right;
+    width: 660px;
+    padding: 30px;
+
+}
+#menu{
+    padding: 10px;
+    width: 250px;
+    float: left;
+}
+h1{
+    color: black;
 }
